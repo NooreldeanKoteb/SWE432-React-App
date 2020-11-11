@@ -2,11 +2,8 @@
   "name": "upxr8",
   "version": "0.0.0",
   "description": "Playground starter",
-  "keywords": [
-    "react",
-    "carousel"
-  ],
-  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "keywords": ["react", "carousel"],
+  "homepage": "https://5fab30e93fd8c300082a81e5--friendly-fermat-fd88c3.netlify.app/",
   "main": "index.js",
   "dependencies": {
     "react-slick": "latest",
