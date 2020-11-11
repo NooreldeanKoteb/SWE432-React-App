@@ -1,0 +1,14 @@
+.container {
+  padding: 40px;
+  background: #419be0;
+  text-align: center;
+}
+.container2 {
+  padding: 10px;
+  background: gray;
+  text-align: center;
+}
+.slick-slide img {
+  margin: auto;
+  padding: 20px;
+}
