@@ -38,7 +38,7 @@ class ReactSlickDemo extends React.Component {
 
         <div className="container2">
           <h1>Cat Galleria</h1>
-          <p>This is a Quick ReactNative App that displays cat pictures.</p>
+          <p>This is a Quick React App that displays cat pictures.</p>
 
           <p>
             Email: <input />
